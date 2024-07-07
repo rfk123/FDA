@@ -1,3 +1,4 @@
+//testing in progress
 require('dotenv').config();
 const { getHistoricalStockPrices } = require('./services/dataService');
 
